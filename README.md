@@ -6,3 +6,9 @@
 > Sets the **Swappiness** value to 10 to optimize memory usage.
 > Blacklists unnecessary kernel modules in the `/etc/modprobe.d/blacklist.conf` file.
 > Disables graphical effects (specific to **X11-based** environments, like XFCE) if the X server is running.
+
+# How to run optimizer.bash ?
+
+* execute this in command prompt: ``chmod +x optimizer.bash``
+* after execute this in command prompt: ``./optimizer.bash
+``
